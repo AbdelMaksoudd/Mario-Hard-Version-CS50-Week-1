@@ -6,6 +6,6 @@ How It Works:
 - The program prints two pyramids (with a gap of two spaces between them), each of height equal to the user's input.
 
 To compile and run this program, you'll need:
-- A C compiler
+- A compiler
 - The `cs50.h` library  
   *(Or run it in [CS50 IDE](https://cs50.io)* where it's pre-installed.)
